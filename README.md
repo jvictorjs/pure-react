@@ -7,3 +7,5 @@ No Babel.
 No Webpack.
 
 No JSX.
+
+Just React 18.
